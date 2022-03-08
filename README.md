@@ -4,7 +4,7 @@
 
 ![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/91859720/157185006-2d88d549-548c-4fc6-b1a8-b68698e726e3.png)
 
--The data shows that the slope of the linear model is not zero based off the relation to the p-value of 5.35e-11. The p-value is lower than the signicance level threshold.
+-The data shows that the slope of the linear model is not zero based off the relation to the p-value of 5.35e-11. The p-value is lower than the significance level threshold.
 
 
 ## Summary Statistics on Suspension Coils
